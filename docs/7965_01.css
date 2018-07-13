@@ -27,3 +27,7 @@ div {
     left: 0;
     top: 0;
 }
+<link rel="stylesheet" href="7965_01.css">
+<label for="check" class="lights">Click here to invert colours</label>
+<input type="checkbox" id="check" />
+<div></div>
